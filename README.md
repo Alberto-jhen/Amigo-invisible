@@ -56,18 +56,6 @@ https://myaccount.google.com/apppasswords
 
 Copia la clave generada y pégala en SENDER_EMAIL_KEY dentro de tu .env.
 
-## 🧠 Estructura del proyecto
-src/
- └── main/java/org/invisibleFriend/
-      ├── Main.java                 # Clase principal
-      ├── EmailSender.java          # Envío de correos
-      └── users/
-           ├── Person.java
-           ├── User.java
-           └── PersonCollector.java
-.env                                 # Configuración de entorno
-pom.xml                              # Configuración Maven
-
 ## 🔁 Flujo del programa
 
 1. El usuario introduce los nombres y correos.
