@@ -34,7 +34,7 @@ Permite introducir participantes, asignar regalos de forma aleatoria sin repetic
    ```
    
 2. Crea el archivo .env en la raíz del proyecto con el siguiente contenido:
-   <img width="446" height="76" alt="image" src="https://github.com/user-attachments/assets/43223031-09d7-4b6e-8987-9de5b0b274e2" />
+   <br> <img width="446" height="76" alt="image" src="https://github.com/user-attachments/assets/43223031-09d7-4b6e-8987-9de5b0b274e2" /> <br>
 ⚠️No uses comillas ni espacios alrededor del =
 
 3. **Compilación** y **ejecución**
