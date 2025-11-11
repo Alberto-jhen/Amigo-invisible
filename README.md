@@ -46,6 +46,7 @@ Ejecuta mediante el comando:
    ```bash
    java -jar target/JavaEmailSender-Test-1.0-SNAPSHOT-shaded.jar
    ```
+---
 
 ## 📧 Configuración de correo (Gmail)
 
@@ -56,12 +57,16 @@ https://myaccount.google.com/apppasswords
 
 Copia la clave generada y pégala en SENDER_EMAIL_KEY dentro de tu .env.
 
+---
+
 ## 🔁 Flujo del programa
 
 1. El usuario introduce los nombres y correos.
 2. Se validan las direcciones con regex.
 3. Se generan emparejamientos aleatorios válidos.
 4. Se envía un correo a cada participante con su destinatario.
+
+---
 
 ## 🧪 Ejemplo de ejecución
 Bienvenido a la aplicación de amigo invisible.
@@ -76,9 +81,13 @@ Introduce otro participante (Enter vacío para salir):
 Enviando correos...
 Correo enviado correctamente a ana@example.com
 
+---
+
 ## -Reconendaciones adicionales-
 Utiliza una cuenta de gmail únicamente para el envío de correos.<br>
 Si utilizas otro proveedor SMTP, cambia las variables del .env.
+
+---
 
 ## 👤 Autor
 
