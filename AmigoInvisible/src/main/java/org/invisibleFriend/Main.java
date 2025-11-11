@@ -29,7 +29,6 @@ public class Main {
                 user.setLastYearGifted(new Person(lastYearGifted));
             }
         }
-        System.out.println(people);
 
         people.assignNextGift();
         for(Person p : people.getPersonCollector()) {
