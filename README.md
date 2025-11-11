@@ -89,8 +89,8 @@ Enviando correos...
 Correo enviado correctamente a ana@example.com
 
 ## -Reconendaciones adicionales-
-Utiliza una cuenta de gmail únicamente para el envío de correos.
-Si utilizas otro proveedor SMTP, cambia las variables del .env
+Utiliza una cuenta de gmail únicamente para el envío de correos.<br>
+Si utilizas otro proveedor SMTP, cambia las variables del .env.
 
 ## 👤 Autor
 
