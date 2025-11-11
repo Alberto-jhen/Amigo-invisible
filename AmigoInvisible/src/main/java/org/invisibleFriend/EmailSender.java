@@ -53,7 +53,7 @@ public class EmailSender {
             Message message = new MimeMessage(session);
             message.setFrom(new InternetAddress(sender));
             message.setRecipients(Message.RecipientType.TO, InternetAddress.parse(personEmailed.getPersonEmail()));
-            message.setSubject("PRUEBA");
+            message.setSubject("Amigo invisible");
             message.setText("Hola " + personEmailed.getPersonName() + ", debes hacer un regalo a " + personEmailed.getNextGiftPerson().getPersonName());
             // Para mandar html setContent() en vez de setText().
 
