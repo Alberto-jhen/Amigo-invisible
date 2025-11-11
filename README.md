@@ -41,7 +41,7 @@ Permite introducir participantes, asignar regalos de forma aleatoria sin repetic
    ```bash
    mvn clean package
    ```
-Esto generará un archivo auto-ejecutable en la carpeta **/target**
+Esto generará un archivo auto-ejecutable en la carpeta **/target**<br>
 Ejecuta mediante el comando:
    ```bash
    java -jar target/JavaEmailSender-Test-1.0-SNAPSHOT-shaded.jar
