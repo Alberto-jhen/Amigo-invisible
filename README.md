@@ -83,7 +83,7 @@ Correo enviado correctamente a ana@example.com
 
 ---
 
-## -Reconendaciones adicionales-
+## -Recomendaciones adicionales-
 Utiliza una cuenta de gmail únicamente para el envío de correos.<br>
 Si utilizas otro proveedor SMTP, cambia las variables del .env.
 
